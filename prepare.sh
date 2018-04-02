@@ -26,5 +26,6 @@ sed -i -e 's/Luis Eduardo Alanis Villarreal/Luis/g' sensai-project.txt
 sed -i -e 's/Aldo Lopez Viezca/Aldo/g' sensai-project.txt
 sed -i -e 's/Aldo Lopez/Aldo/g' sensai-project.txt
 sed -i -e 's/Ubuntu/Server/g' sensai-project.txt
+sed -i -e 's/Francisco Cruz/Francisco/g' sensai-project.txt
 sed -i -e 's/Juan Carlos del Valle/Juan Carlosdv/g' sensai-project.txt
 sed -i -e 's/Gustavo de Jesús Barrientos Guerrero/Gustavo/g' sensai-project.txt
