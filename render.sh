@@ -1,0 +1,1 @@
+gource -1920x1080 -r 60 --seconds-per-day 0.55 --hide filenames --file-idle-time 0 --key --title "Sensai Dev 2017-2018" --caption-file caption.txt --caption-size 28 --caption-duration 8 --user-image-dir avatar/ sensai-project.txt -o - | ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset veryfast -pix_fmt yuv420p -crf 1 -threads 0 -bf 0 sensai-project.mp4

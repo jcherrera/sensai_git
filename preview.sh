@@ -1,0 +1,1 @@
+gource -1920x1080 -r 60 --seconds-per-day 0.5 --file-idle-time 0 --key --title "Senasi Dev 2017-2018" --caption-file caption.txt --caption-size 24 --caption-duration 7 --user-image-dir avatar/ sensai-project.txt

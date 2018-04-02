@@ -1,2 +1,9 @@
 # sensai_git
-Visual Representation of Sensai Repositories
+
+**Sensai Git Visualizer**
+
+Prepare: ./prepare.sh
+Preview: ./preview.sh
+Render: ./render.sh
+
+Regex setup for Linux (escape chars)
